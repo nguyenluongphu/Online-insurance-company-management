@@ -1,0 +1,9 @@
+#bttop{
+    position:fixed;
+    bottom:40px;
+    right:20px;
+    cursor:pointer;
+}
+#bttop img:hover{
+    box-shadow: 5px 5px 30px red;
+}
